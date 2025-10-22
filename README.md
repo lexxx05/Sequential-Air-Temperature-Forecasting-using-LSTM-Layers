@@ -62,16 +62,5 @@ Model versions were compared using MSE and trend-matching visualization metrics.
 
 ---
 
-## Technologies Used
-- Python  
-- TensorFlow / Keras  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
-- Seaborn  
-
----
-
 ## Conclusion
 This project demonstrates how LSTM networks can model complex time-series dependencies between air temperature and particulate matter levels. Through systematic EDA, preprocessing, and model fine-tuning, the approach successfully improved forecasting accuracy while maintaining interpretability of seasonal and temporal air patterns.
